@@ -104,3 +104,5 @@ Aplikasi menggunakan MySQL dengan 4 tabel utama yang saling berelasi:
     - Menghapus Trainer akan menghapus semua Pokemon miliknya (_Cascade_).
 
 ## Dokumentasi
+
+https://github.com/user-attachments/assets/5b96a6ea-3f97-4434-a679-3e3fc8d17e01
